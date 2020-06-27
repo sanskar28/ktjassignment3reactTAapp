@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ktjassignment3reactTAapp/precache-manifest.5a5fe3481e2a43cdfe6450c7313fe693.js"
+  "/ktjassignment3reactTAapp/precache-manifest.fb96b490cbaa5fc0e2004e5941da4d84.js"
 );
 
 self.addEventListener('message', (event) => {
