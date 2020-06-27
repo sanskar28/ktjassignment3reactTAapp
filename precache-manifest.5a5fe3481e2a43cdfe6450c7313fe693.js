@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bfce75e202c178f629e90773a555a073",
+    "revision": "b707522094e2d55000b95903faa236e2",
     "url": "/ktjassignment3reactTAapp/index.html"
   },
   {
-    "revision": "931a2f99202ddf8c4247",
+    "revision": "2ae3516e7e35b86dbb32",
     "url": "/ktjassignment3reactTAapp/static/css/main.fbbd9ebf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ktjassignment3reactTAapp/static/js/2.b9d4a0aa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "931a2f99202ddf8c4247",
-    "url": "/ktjassignment3reactTAapp/static/js/main.876bff67.chunk.js"
+    "revision": "2ae3516e7e35b86dbb32",
+    "url": "/ktjassignment3reactTAapp/static/js/main.072095ff.chunk.js"
   },
   {
     "revision": "07ec26d6cbe57c2c78be",
